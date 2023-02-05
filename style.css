@@ -1,0 +1,384 @@
+ .black-bg {
+        background-color: black;
+      }
+
+      .title {
+        position: absolute;
+        width: 913px;
+        height: 208px;
+        left: 100px;
+        top: 180px;
+
+        font-family: 'Century Gothic';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 80px;
+        line-height: 130%;
+
+        color: #FFFFFF;
+      }
+
+      .subtitle {
+        position: absolute;
+        width: 615px;
+        height: 49px;
+        left: 100px;
+        top: 538px;
+
+        font-family: 'Century Gothic';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 49px;
+
+        color: #FFFFFF;
+      }
+
+      .img1 {
+        position: absolute;
+        width: 1494px;
+        height: 1057px;
+        left: 605px;
+        top: -41px;
+      }
+
+      .one {
+        position: absolute;
+        width: 79px;
+        height: 172px;
+        left: 100px;
+        top: 647px;
+
+        font-family: 'Century Gothic';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 140px;
+        line-height: 172px;
+
+        color: #FFFFFF;
+      }
+
+      .one-subtitle {
+        position: absolute;
+        width: 406px;
+        height: 68px;
+        left: 209px;
+        top: 804px;
+
+        font-family: 'Century Gothic';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 140%;
+
+        color: #FFFFFF;
+      }
+
+      .one-text {
+        position: absolute;
+        width: 515px;
+        height: 84px;
+        left: 100px;
+        top: 929px;
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 130%;
+
+        color: #FFFFFF;
+      }
+
+      .ellips1 {
+        position: absolute;
+        width: 465px;
+        height: 394px;
+        left: 125px;
+        top: 1073px;
+      }
+
+      .two {
+        position: absolute;
+        width: 79px;
+        height: 172px;
+        left: 689px;
+        top: 733px;
+
+        font-family: 'Century Gothic';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 140px;
+        line-height: 172px;
+
+        color: #FFFFFF;
+      }
+
+      .two-subtitle {
+        position: absolute;
+        width: 412px;
+        height: 68px;
+        left: 798px;
+        top: 892px;
+
+        font-family: 'Century Gothic';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 140%;
+
+        color: #FFFFFF;
+      }
+
+      .two-text {
+        position: absolute;
+        width: 525px;
+        height: 126px;
+        left: 685px;
+        top: 1015px;
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 130%;
+
+        color: #FFFFFF;
+      }
+
+      .ellips2 {
+        position: absolute;
+        width: 523.58px;
+        height: 366.58px;
+        left: 688.92px;
+        top: 1101px;
+      }
+
+      .three {
+        position: absolute;
+        width: 79px;
+        height: 172px;
+        left: 1286.5px;
+        top: 809px;
+
+        font-family: 'Century Gothic';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 140px;
+        line-height: 172px;
+
+        color: #FFFFFF;
+      }
+
+      .three-subtitle {
+        position: absolute;
+        width: 412px;
+        height: 68px;
+        left: 1395.5px;
+        top: 968px;
+
+        font-family: 'Century Gothic';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 140%;
+
+        color: #FFFFFF;
+      }
+
+      .three-text {
+        position: absolute;
+        width: 525px;
+        height: 63px;
+        left: 1282.5px;
+        top: 1091px;
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 130%;
+
+        color: #FFFFFF;
+      }
+
+      .ellips3 {
+        box-sizing: border-box;
+
+        position: absolute;
+        width: 464.25px;
+        height: 501.63px;
+        left: 1313px;
+        top: 1214px;
+      }
+
+      .four {
+        position: absolute;
+        width: 79px;
+        height: 172px;
+        left: 100px;
+        top: 1615px;
+
+        font-family: 'Century Gothic';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 140px;
+        line-height: 172px;
+
+        color: #FFFFFF;
+      }
+
+      .four-subtitle {
+        position: absolute;
+        width: 406px;
+        height: 68px;
+        left: 209px;
+        top: 1772px;
+
+        font-family: 'Century Gothic';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 140%;
+
+        color: #FFFFFF;
+      }
+
+      .four-text{
+        position: absolute;
+        width: 515px;
+        height: 84px;
+        left: 100px;
+        top: 1897px;
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 130%;
+
+        color: #FFFFFF;
+      }
+
+      .ellips4{
+        position: absolute;
+        width: 465.71px;
+        height: 380.21px;
+        left: 101.2px;
+        top: 1986.94px;
+      }
+
+      .five {
+        position: absolute;
+        width: 79px;
+        height: 172px;
+        left: 689px;
+        top: 1702px;
+
+        font-family: 'Century Gothic';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 140px;
+        line-height: 172px;
+
+        color: #FFFFFF;
+      }
+
+      .five-subtitle {
+        position: absolute;
+        width: 412px;
+        height: 68px;
+        left: 798px;
+        top: 1861px;
+
+        font-family: 'Century Gothic';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 140%;
+
+        color: #FFFFFF;
+      }
+
+      .five-text {
+        position: absolute;
+        width: 525px;
+        height: 126px;
+        left: 685px;
+        top: 1984px;
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 130%;
+
+        color: #FFFFFF;
+      }
+
+      .ellips5{
+        position: absolute;
+        width: 523.31px;
+        height: 439.2px;
+        left: 689.89px;
+        top: 2083.76px;
+      }
+
+      .six {
+        position: absolute;
+        width: 79px;
+        height: 172px;
+        left: 1286.5px;
+        top: 1778px;
+
+        font-family: 'Century Gothic';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 140px;
+        line-height: 172px;
+
+        color: #FFFFFF;
+      }
+
+      .six-subtitle {
+        position: absolute;
+        width: 412px;
+        height: 68px;
+        left: 1395.5px;
+        top: 1937px;
+
+        font-family: 'Century Gothic';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 140%;
+
+        color: #FFFFFF;
+      }
+
+      .six-text {
+        position: absolute;
+        width: 525px;
+        height: 63px;
+        left: 1282.5px;
+        top: 2060px;
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 130%;
+
+        color: #FFFFFF;
+      }
+
+      .ellips6{
+        box-sizing: border-box;
+
+        position: absolute;
+        width: 458.73px;
+        height: 402.52px;
+        left: 1354.27px;
+        top: 2174.48px;
+
+      }
